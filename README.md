@@ -6,8 +6,10 @@
 
 **STEP 1: Open CMD and follow Bot Location!**
 `cd <botlocation>`
+
 **STEP 2: Install Packages**
 `npm i`
+
 **STEP 3: Run bot**
 `node index.js` or `open start.bat`
 
