@@ -7,8 +7,11 @@
 **STEP 1: Open CMD and follow Bot Location!**
 `cd <botlocation>`
 
-**STEP 2: Install Packages**
-`npm i`
+**STEP 2: Add better discord anti spam to your project**
+`npm i better-discord-antispam`
+
+**STEP 3: Add discord.js to your project**
+`npm i discord.js`
 
 **STEP 3: Run bot**
 `node index.js` or `open start.bat`
