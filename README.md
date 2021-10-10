@@ -1,20 +1,11 @@
 
-# Discord Anti Message Spam (Js)
-**When users spam in your discord server this bot can mute user!**
- - Fast
- - With accuracy
+# RainbowSix (R6) AntiRecoil / NoRecoil Cheat C#
+**Rainbow Six Siege, NoRecoil / AntiRecoil cheat with C# (Mouse Setting - Undetected)**
 
-**STEP 1: Open CMD and follow Bot Location!**
-`cd <botlocation>`
+ - Beautiful UI
+ - Undetected (Guaranteed)
 
-**STEP 2: Add better discord anti spam to your project**
-`npm i better-discord-antispam`
-
-**STEP 3: Add discord.js to your project**
-`npm i discord.js`
-
-**STEP 3: Run bot**
-`node index.js` or `open start.bat`
+![NeverLose AntiRecoil ScreenShot](https://sp-soft.ir/r6.PNG)
 
 [SP SOFT](https://sp-soft.ir) | [Web](https://karamlou.com) | [Telegram](https://t.me/sir_programmer)
 
