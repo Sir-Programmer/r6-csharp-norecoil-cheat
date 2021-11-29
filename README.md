@@ -5,7 +5,7 @@
  - Beautiful UI
  - Undetected (Guaranteed)
 
-![NeverLose AntiRecoil ScreenShot](https://sp-soft.ir/r6.PNG)
+![NeverLose AntiRecoil ScreenShot](https://mojtabakaramloo.ir/r6.png)
 
 [SP SOFT](https://sp-soft.ir) | [Web](https://karamlou.com) | [Telegram](https://t.me/sir_programmer)
 
