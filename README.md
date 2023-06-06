@@ -1,6 +1,6 @@
 
 # RainbowSix (R6) AntiRecoil / NoRecoil Cheat C#
-**Rainbow Six Siege, NoRecoil / AntiRecoil cheat with C# (Mouse Setting - use at your own risk!)**
+**Rainbow Six Siege, NoRecoil / AntiRecoil cheat with C# (Mouse Setting - Use at Your Own Risk)**
 
  - Beautiful UI
  - External
