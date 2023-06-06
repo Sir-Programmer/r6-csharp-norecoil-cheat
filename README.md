@@ -1,9 +1,9 @@
 
 # RainbowSix (R6) AntiRecoil / NoRecoil Cheat C#
-**Rainbow Six Siege, NoRecoil / AntiRecoil cheat with C# (Mouse Setting - Undetected)**
+**Rainbow Six Siege, NoRecoil / AntiRecoil cheat with C# (Mouse Setting - use at your own risk!)**
 
  - Beautiful UI
- - Undetected (Guaranteed)
+ - External
 
 ![NeverLose AntiRecoil ScreenShot](https://mojtabakaramloo.ir/r6.png)
 
