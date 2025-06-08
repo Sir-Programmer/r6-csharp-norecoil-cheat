@@ -5,7 +5,7 @@
  - Beautiful UI
  - External
 
-![NeverLose AntiRecoil ScreenShot](https://mojtabakaramloo.ir/r6.png)
+![NeverLose AntiRecoil ScreenShot](https://mojtabakaramloo.ir/neverlose.png)
 
 [SP SOFT](https://sp-soft.ir) | [Web](https://karamlou.com) | [Telegram](https://t.me/sir_programmer)
 
