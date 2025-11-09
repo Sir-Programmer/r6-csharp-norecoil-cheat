@@ -5,7 +5,7 @@
  - Beautiful UI
  - External
 
-![NeverLose AntiRecoil ScreenShot](https://mojtabakaramloo.ir/neverlose.png)
+![NeverLose AntiRecoil ScreenShot](https://github.com/Sir-Programmer/r6-csharp-norecoil-cheat/blob/main/nl.png?raw=true)
 
 [SP SOFT](https://sp-soft.ir) | [Web](https://karamlou.com) | [Telegram](https://t.me/sir_programmer)
 
